@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9139403d-daa7-431e-8250-2e8dd27c8974" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deviceDescriptorsSource.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cep_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_dialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_download_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_text_imput_and_click.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9139403d-daa7-431e-8250-2e8dd27c8974" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xxxdima84"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xxxdima84/PythonProject3.git",
+    "accountId": "a12157b1-513d-457b-a237-a79839f169f0"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -184,7 +187,7 @@
       <workItem from="1751582928785" duration="15904000" />
       <workItem from="1751705285870" duration="10939000" />
       <workItem from="1752048620317" duration="1320000" />
-      <workItem from="1752050149922" duration="4305000" />
+      <workItem from="1752050149922" duration="4745000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -194,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752000931970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1752082567259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752082567259</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
