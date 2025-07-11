@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9139403d-daa7-431e-8250-2e8dd27c8974" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/test_screenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_tabs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +152,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PWDEBUG" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -162,6 +166,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test_text_imput_and_click" />
+      <item itemvalue="Python tests.Python tests for test_locator_or_and.test_locator_and" />
+      <item itemvalue="Python tests.Python tests in test_locator.py" />
+      <item itemvalue="Python tests.Python tests in test_locator_or_and.py" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in test_locator.py" />
@@ -190,7 +201,7 @@
       <workItem from="1751582928785" duration="15904000" />
       <workItem from="1751705285870" duration="10939000" />
       <workItem from="1752048620317" duration="1320000" />
-      <workItem from="1752050149922" duration="5878000" />
+      <workItem from="1752050149922" duration="16757000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -224,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752083376174</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1752083818977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752083818977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
